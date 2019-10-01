@@ -4,6 +4,7 @@ aws python to dynamodb範例
 連結:
 
 https://docs.aws.amazon.com/zh_tw/amazondynamodb/latest/developerguide/GettingStarted.Python.html
+
 (aws 範例 region_name 改為 ap-northeast-1)
 
 
@@ -19,8 +20,6 @@ aws cli
 docker
 
 boto3
-
-
 
 
 
