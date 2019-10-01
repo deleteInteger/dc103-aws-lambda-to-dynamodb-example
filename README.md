@@ -1,7 +1,5 @@
-# dc103-aws-lambda-to-dynamodb-example
-
-aws python to dynamodb範例
-連結:
+# aws python to dynamodb範例
+## 連結:
 
 https://docs.aws.amazon.com/zh_tw/amazondynamodb/latest/developerguide/GettingStarted.Python.html
 
@@ -9,7 +7,7 @@ https://docs.aws.amazon.com/zh_tw/amazondynamodb/latest/developerguide/GettingSt
 
 
 
-需求:
+## 需求:
 
 python(2.7.15+)
 
@@ -23,7 +21,7 @@ boto3
 
 
 
-實作
+## 實作
 
 
     docker run -p 8000:8000 amazon/dynamodb-local
